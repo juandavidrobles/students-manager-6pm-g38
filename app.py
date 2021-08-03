@@ -4,7 +4,8 @@ estudiantes = [
   {'nombre': 'kevin', 'apellido': 'correa', 'sexo': 'm', 'documento': 123451},
   {'nombre': 'Juan', 'apellido': 'Puentes', 'sexo': 'm', 'documento': 123452},
   {'nombre': 'Andrea', 'apellido': 'correa', 'sexo': 'f', 'documento': 123453},
-  {'nombre': 'Andrea', 'apellido': 'tellez', 'sexo': 'f', 'documento': 123454}
+  {'nombre': 'Andrea', 'apellido': 'tellez', 'sexo': 'f', 'documento': 123454},
+  {'nombre': 'camilo', 'apellido': 'montenegro', 'sexo': 'm', 'documento': 123455}
 ]
 funciones.mostrar_menu()
 while True:
